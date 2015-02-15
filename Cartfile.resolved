@@ -1,4 +1,4 @@
-github "modocache/LlamaKit" "2cf57d57a066e64abae61e7dde061cf6ca31ac47"
+github "robb/LlamaKit" "7569c59f49b0d4033a06409745a44f8566189e98"
 github "Quick/Nimble" "v0.2.0"
 github "Quick/Quick" "v0.2.2"
 github "jspahrsummers/xcconfigs" "0.7.1"
